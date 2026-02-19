@@ -10,7 +10,7 @@ window.addEventListener('load', function() {
           <div style="display:flex;flex-direction:column;height:100vh;font-family:arial,sans-serif;">
             
             <div style="background:#ff4444;color:white;text-align:center;padding:12px;font-size:14px;font-weight:bold;">
-              BUG BOUNTY POC ONLY - No credentials captured - Reported to Canva Security
+               POC ONLY - No credentials captured
             </div>
 
             <div style="background:#f1f3f4;padding:8px 16px;display:flex;align-items:center;gap:12px;border-bottom:1px solid #ddd;">
